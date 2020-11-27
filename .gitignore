@@ -1,1 +1,13 @@
+# yarn integrity file 
+.yarn-integrity
 
+# dotenv environment variable file
+.env
+dist
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+.npm
+.DS_Store
