@@ -11,3 +11,4 @@ jspm_packages/
 
 .npm
 .DS_Store
+package-lock.json
